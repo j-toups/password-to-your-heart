@@ -28,4 +28,4 @@ THEN the password is written to the page
 ## Mock-Up
 
 The following image shows the web application's appearance and functionality: 
-![LINK to DEMO](/documents/coding bootcamp/solved assignments/HW/Assets/Demo_PasswordGenerator)
+![LINK to DEMO](C:\Users\josep\OneDrive\Documents\Coding Bootcamp\Solved Assignments\HW3\Assets\Demo_PasswordGenerator.JPG)
