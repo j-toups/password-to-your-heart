@@ -27,4 +27,5 @@ THEN the password is written to the page
 
 ## Mock-Up
 
-The following image shows the web application's appearance and functionality: (./Assets/03-javascript-homework-demo.png)
+The following image shows the web application's appearance and functionality: 
+![LINK to DEMO](/documents/coding bootcamp/solved assignments/HW/Assets/Demo_PasswordGenerator)
